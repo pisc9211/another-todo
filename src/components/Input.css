@@ -1,0 +1,6 @@
+.add-todo-form > input,
+.add-todo-form > text-area,
+.add-todo-form > button {
+    display: block;
+    margin: 0 auto;
+}
